@@ -8,7 +8,9 @@ namespace BID.SWE.EXAM.Impl
        
         public object Method1(string str, int i)
         {
+            
             throw new NotImplementedException();
+            
         }
     }
 }
